@@ -50,7 +50,7 @@
       <div class="logo">💌</div>
       <div>
         <h1>Kuis Misteri: Tebak yang Suka</h1>
-        <p class="lead">Kirim kuis ini ke crush-mu. Jawabannya lucu, ada sentuhan romantis, dan... pembuatnya tidak langsung ketahuan. 🕵️‍♂️💖</p>
+        <p class="lead">Kirim kuis ini ke teman-mu. Jawabannya lucu, dan... pembuatnya tidak langsung ketahuan. 🕵️‍♂️💖</p>
       </div>
     </header>
 
